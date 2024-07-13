@@ -1,0 +1,39 @@
+/* CartPage.css */
+.cart-page {
+    padding: 20px;
+  }
+  
+  .cart-page h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .cart-page table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .cart-page th,
+  .cart-page td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .cart-page th {
+    background-color: #f4f4f4;
+  }
+  
+  .cart-page button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .cart-summary {
+    text-align: right;
+    margin-top: 20px;
+    font-size: 1.2em;
+  }
+  

@@ -1,0 +1,13 @@
+/* App.css */
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .App h1 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
